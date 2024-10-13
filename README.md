@@ -34,4 +34,5 @@
 <li><a target="_blank" href="https://medium.com/@gmrarunn/efficient-big-data-processing-with-apache-spark-postgres-db-part-2-94e2301a21c2">Efficient Big Data Processing with Apache Spark + Postgres DB</a></li>
 <h2>⚡️ Let's Connect</h2>
 <p><a target="_blank" href="undefinedhttps://medium.com/@gmrarunn" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
-<p><a target="_blank" href="undefinedwww.linkedin.com/in/arunmuthuramalingam" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=flat&color=blue" alt="linkedin" /></a></p>
+<p><a target="_blank" href="undefinedwww.linkedin.com/in/arunmuthuramalingam" style="display: inline-block;"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="linkedin" /></a></p>
+<p><a target="_blank" href="mailto:hejazizo@ualberta.ca" style="display: inline-block;"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="gmail" /></a></p>
